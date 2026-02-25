@@ -1,0 +1,4 @@
+cowrie/cowrie-env/
+cowrie/var/log/
+*.log
+__pycache__/
